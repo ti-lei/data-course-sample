@@ -21,6 +21,7 @@
     ``` python
     target = buy_in_every_month.loc[top50,:].dropna(subset=['d', 'e','f']).index[:10]
     ```
+DataFrame: buy_in_every_month
 ![](https://i.imgur.com/jdQWHyH.png)
 
 ## 使用套件
