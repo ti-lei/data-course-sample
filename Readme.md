@@ -23,6 +23,7 @@
     ```
     
 **圖為DataFrame: buy_in_every_month**
+
 ![](https://i.imgur.com/jdQWHyH.png)
 
 ## 使用套件
